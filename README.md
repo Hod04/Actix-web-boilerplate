@@ -1,6 +1,6 @@
-# Code-Snippets App
+# Actix-web boilerplate
 
-An app for adding, removing and editing code snippets. Built with Actix and evtl. with React & Redux on the client side.
+A for building web apps with actix-web and tokio-postgress in Rust
 
 ## Prerequisites
 
